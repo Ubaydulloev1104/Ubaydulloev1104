@@ -9,6 +9,6 @@
 
 <p>&nbsp; <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ubaydulloev1104&theme=github" alt="stats_o1ra" /></p>
 
-<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ubaydulloev1104&theme=default" alt="stats_o1ra"/></p>&nbsp;
+
 
 
